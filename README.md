@@ -32,8 +32,11 @@ Data analysis and visualization are further enhanced using **Pandas, NumPy, Matp
 
 ---
 
-## 🗃 Data Details
-- Example dataset: Telecom churn dataset with customer demographics, usage patterns, and churn labels.
+## 🔗 Full Dataset
+Because of GitHub file size limits, the complete dataset is not uploaded here.
+
+- 📂 Download the full dataset from: https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset
+- Place it in the `data/` directory as `churn_full.csv` before running the notebook.
 
 
 
