@@ -68,7 +68,8 @@ Data analysis and visualization are further enhanced using **Pandas, NumPy, Matp
 
 ##  Author
 **Muskan Meena**  
-[LinkedIn](#) | [GitHub](#)
+[LinkedIn(MUSKANMEENA)] | [GitHub](Muskan9114
+)
 
 ---
 
